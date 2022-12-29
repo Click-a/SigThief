@@ -1,0 +1,6 @@
+python sigthief.py -i 1.exe -t ntc.exe -o taskhost.exe
+
+python sigthief.py -i 1.exe -t ntc.exe -o Injector.exe
+python sigthief.py -i 1.exe -t ntc.exe -o chainHost.exe
+python sigthief.py -i 1.exe -t ntc.exe -o RuntimeBroker.exe
+
